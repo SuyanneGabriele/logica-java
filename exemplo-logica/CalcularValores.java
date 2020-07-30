@@ -1,13 +1,18 @@
 public class CalcularValores{
 
 	public static void main(String[] args){
-		String nome;
-        double altura;
 
-        nome = "Suyanne";
-        altura = 1.64;
+        int numeroUm;
+        int numeroDois;
+        int soma;
 
-        System.out.println("Oiie, meu nome é " + nome + "! E eu tenho " + altura + " metros");
+        // Irá fazer um calculo de soma
+        numeroUm = 15;
+        numeroDois = 80;
+
+        soma = numeroUm + numeroDois;
+        
+        System.out.println("O resultado: " + soma);
 }
 
 }
