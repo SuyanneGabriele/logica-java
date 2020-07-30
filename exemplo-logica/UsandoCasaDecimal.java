@@ -1,4 +1,4 @@
-public class UsandoTexto{
+public class UsandoCasaDecimal{
 
 	public static void main(String[] args){
 		String nome;
